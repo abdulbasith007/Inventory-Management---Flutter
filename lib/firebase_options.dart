@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'inventory-management-flutter.firebasestorage.app',
     measurementId: 'G-ZDRZRYY6T1',
   );
+
 }
