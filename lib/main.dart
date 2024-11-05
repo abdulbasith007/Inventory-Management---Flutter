@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:inventory_management_app/firebase_options.dart';
-import 'package:inventory_management_app/inventory_screen.dart';
+import 'firebase_options.dart';
+import 'inventory_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
