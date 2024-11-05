@@ -41,48 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA5LCZ8xALRyn5m-uhtUhhhUMDBHiRj8Ko',
-    appId: '1:921607986753:web:5f449e7c0d7118642230c0',
-    messagingSenderId: '921607986753',
-    projectId: 'inventorymanagement-5bd13',
-    authDomain: 'inventorymanagement-5bd13.firebaseapp.com',
-    storageBucket: 'inventorymanagement-5bd13.firebasestorage.app',
-    measurementId: 'G-9X42YZ69P8',
+    apiKey: 'AIzaSyCKCBrDlvq0lsGyEYWbnuS1iCxT_ePruQY',
+    appId: '1:321435976541:web:3aa3a98b3fc9e393969eb4',
+    messagingSenderId: '321435976541',
+    projectId: 'inventory-management-flutter',
+    authDomain: 'inventory-management-flutter.firebaseapp.com',
+    storageBucket: 'inventory-management-flutter.firebasestorage.app',
+    measurementId: 'G-SS6J410EYQ',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBdRc-dUBc7KgXm3FWojmyyA8Jb7ZK237Q',
-    appId: '1:921607986753:android:50ef5d338ab340a02230c0',
-    messagingSenderId: '921607986753',
-    projectId: 'inventorymanagement-5bd13',
-    storageBucket: 'inventorymanagement-5bd13.firebasestorage.app',
+    apiKey: 'AIzaSyDUil11iAxKlywKk8T4EZ6Zmx3oPaI95Ek',
+    appId: '1:321435976541:android:c4fbdb34a3711311969eb4',
+    messagingSenderId: '321435976541',
+    projectId: 'inventory-management-flutter',
+    storageBucket: 'inventory-management-flutter.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCcfiCRo0_7tKZHQwwqZCa1Zdjtqg3dEIs',
-    appId: '1:921607986753:ios:c0bfc58ff26c525f2230c0',
-    messagingSenderId: '921607986753',
-    projectId: 'inventorymanagement-5bd13',
-    storageBucket: 'inventorymanagement-5bd13.firebasestorage.app',
-    iosBundleId: 'com.example.inventoryManagementApp',
+    apiKey: 'AIzaSyCxo2MUThNbZl1n3eNd-MZjy0z3DYERNP4',
+    appId: '1:321435976541:ios:1963068f0f5a057a969eb4',
+    messagingSenderId: '321435976541',
+    projectId: 'inventory-management-flutter',
+    storageBucket: 'inventory-management-flutter.firebasestorage.app',
+    iosBundleId: 'com.example.inventoryManagementFirebaseFlutter',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCcfiCRo0_7tKZHQwwqZCa1Zdjtqg3dEIs',
-    appId: '1:921607986753:ios:c0bfc58ff26c525f2230c0',
-    messagingSenderId: '921607986753',
-    projectId: 'inventorymanagement-5bd13',
-    storageBucket: 'inventorymanagement-5bd13.firebasestorage.app',
-    iosBundleId: 'com.example.inventoryManagementApp',
+    apiKey: 'AIzaSyCxo2MUThNbZl1n3eNd-MZjy0z3DYERNP4',
+    appId: '1:321435976541:ios:1963068f0f5a057a969eb4',
+    messagingSenderId: '321435976541',
+    projectId: 'inventory-management-flutter',
+    storageBucket: 'inventory-management-flutter.firebasestorage.app',
+    iosBundleId: 'com.example.inventoryManagementFirebaseFlutter',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyA5LCZ8xALRyn5m-uhtUhhhUMDBHiRj8Ko',
-    appId: '1:921607986753:web:45310c922db8f80d2230c0',
-    messagingSenderId: '921607986753',
-    projectId: 'inventorymanagement-5bd13',
-    authDomain: 'inventorymanagement-5bd13.firebaseapp.com',
-    storageBucket: 'inventorymanagement-5bd13.firebasestorage.app',
-    measurementId: 'G-BBL8WBT6Y7',
+    apiKey: 'AIzaSyCKCBrDlvq0lsGyEYWbnuS1iCxT_ePruQY',
+    appId: '1:321435976541:web:4a18c28aacdda88b969eb4',
+    messagingSenderId: '321435976541',
+    projectId: 'inventory-management-flutter',
+    authDomain: 'inventory-management-flutter.firebaseapp.com',
+    storageBucket: 'inventory-management-flutter.firebasestorage.app',
+    measurementId: 'G-ZDRZRYY6T1',
   );
 }
